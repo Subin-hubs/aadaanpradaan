@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "251367500212",
+    "project_id": "aadaanpradaan-7e029",
+    "storage_bucket": "aadaanpradaan-7e029.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251367500212:android:c5f849a8babf6cc4a2aae1",
+        "android_client_info": {
+          "package_name": "com.example.aadanpradaan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5KhasQBEeJj9oFfN0lW0cwA7Vfhne9as"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,49 +1,4 @@
-# aadanpradaan
 
-A new Flutter project.
-
-
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-Steps:
-Save your image (e.g., screenshot.png) in the same folder as README.md.
-
-Commit and push both README.md and the image to GitHub.
-
-GitHub will automatically show the image when viewing the README.
-
-Do you want me to make it so the image is centered and smaller inside the README? That way it looks nicer on GitHub.
-
-
-
-
-
-
-
-
-You said:
-ok now create a propper readme file contating the how the app will run purpose of the app and full detail
-
-
-ChatGPT said:
-Alright — I’ll make you a complete, professional README for your Flutter project so it looks clean on GitHub and explains everything: purpose, setup, usage, and screenshot.
-
-Here’s your improved README.md 👇
-
-markdown
-Copy
-Edit
 # 📱 AadanPradaan
 
 AadanPradaan is a Flutter mobile application designed to allow users to **share and request resources** with the community.  
@@ -84,8 +39,10 @@ The main goal of **AadanPradaan** is to create a platform where users can:
 - **State Management:** setState (basic) / Future integration with Provider or Riverpod
 
 ---
-![App Screenshot](screenshot.png)
-
+![App Screenshot](1.png)
+![App Screenshot](2.png)
+![App Screenshot](3.png)
+![App Screenshot](4.png)
 ---
 
 ## 🧑‍💻 Getting Started
@@ -99,7 +56,7 @@ Make sure you have:
 
 ### 2️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/aadanpradaan.git
+clone: https://github.com/Subin-hubs/aadaanpradaan.git
 cd aadanpradaan
 
 3️⃣ Install Dependencies
